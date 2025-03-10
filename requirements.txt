@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+flask
+flask-login
+flask-sqlalchemy
+flask-bcrypt
+flask-wtf
+torch
+torchvision
+Pillow
+requests
+markupsafe
